@@ -39,6 +39,7 @@ function toggleActiveClass(){
             section.classList.add("active");
         } else {
             section.classList.remove("active");
+            //meassage
         }
     }
 }
