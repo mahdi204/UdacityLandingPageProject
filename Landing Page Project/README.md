@@ -19,20 +19,23 @@ A live demo is available here.
 
 # Installation
 
-[(Back to top)](#table-of-contents)
+https://github.com/mahdi204/UdacityLandingPageProject.git
 
 # Usage
 
-[(Back to top)](#table-of-contents)
+we can use this project as a main landing page for our websites
 
 # Development
 
-[(Back to top)](#table-of-contents)
+Technologies Used:
+-HTML5, CSS3, JavaScript
+Features implemented:
+-Dynamic navigation generation
+-Section highlight on scroll
+-Smooth scrolling using scrollIntoView
 
 # Contribute
 
-[(Back to top)](#table-of-contents)
-
 # License
 
-[(Back to top)](#table-of-contents)
+This project is licensed under the MIT License. See the LICENSE file for details.
